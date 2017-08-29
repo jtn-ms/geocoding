@@ -1,0 +1,4 @@
+G:\27.geocoder\geocoding\geocoding\bin\Debug\geocoding.exe
+G:\27.geocoder\geocoding\geocoding\bin\Debug\geocoding.pdb
+G:\27.geocoder\geocoding\geocoding\obj\x86\Debug\geocoding.exe
+G:\27.geocoder\geocoding\geocoding\obj\x86\Debug\geocoding.pdb
